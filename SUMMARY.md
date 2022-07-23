@@ -4,9 +4,10 @@
 
 ## EOJ题目集
 
-* [2021级编程思维与实践课程](eoj-ti-mu-ji/2021级编程思维与实践课程/README.md)
-  * [1001. 进制转换](<eoj-ti-mu-ji/2021级编程思维与实践课程/1001. 进制转换.md>)
-  * [1002. 神秘信息](eoj-ti-mu-ji/2021级编程思维与实践课程/1002.-shen-mi-xin-xi.md)
+* [2021级编程思维与实践课程](EOJ题目集/2021-ji-bian-cheng-si-wei-yu-shi-jian-ke-cheng/README.md)
+  * [1001. 进制转换](EOJ题目集/2021-ji-bian-cheng-si-wei-yu-shi-jian-ke-cheng/1001.-jin-zhi-zhuan-huan.md)
+  * [1002. 神秘信息](<eoj-ti-mu-ji/2021级编程思维与实践课程/1002. 神秘信息.md>)
+  * [1003. 按数据中1的位数排序](<eoj-ti-mu-ji/2021级编程思维与实践课程/1003. 按数据中1的位数排序.md>)
 
 ## EOJ比赛
 
